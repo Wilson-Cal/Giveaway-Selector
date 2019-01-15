@@ -1,0 +1,28 @@
+{
+  "name": "giveaway-selector",
+  "version": "1.0.0",
+  "description": "Selects the winner of a giveaway being tracked by the Giveaway-Tracker tool.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilson-Cal/Giveaway-Selector.git"
+  },
+  "keywords": [
+    "Giveaway",
+    "Selector",
+    "Picker"
+  ],
+  "author": "Cal Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wilson-Cal/Giveaway-Selector/issues"
+  },
+  "homepage": "https://github.com/Wilson-Cal/Giveaway-Selector#readme",
+  "dependencies": {
+    "d3-dsv": "^1.0.10"
+  }
+}
